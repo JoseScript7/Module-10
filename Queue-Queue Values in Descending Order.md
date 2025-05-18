@@ -36,7 +36,8 @@ print(q)
 ```
 
 ### Output:
-![image](https://github.com/user-attachments/assets/5675f69e-fec6-4daa-8ac7-f97c4b1484b7)
+![image](https://github.com/user-attachments/assets/3925d564-5556-4530-b298-055f596ce3bb)
+
 
 ## Result:
 This program builds a list, removes the first two entries, then sorts and prints the rest in descending order.
